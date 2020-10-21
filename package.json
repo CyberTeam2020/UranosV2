@@ -1,0 +1,40 @@
+{
+  "name": "cyber",
+  "version": "0.0.1",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^11.5.1",
+    "express": "^4.17.1",
+    "http": "^0.0.0",
+    "https": "^1.0.0",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.7",
+    "simple-youtube-api": "^5.2.1",
+    "ytdl-core": "^3.2.0",
+    "ytdl-core-discord": "^1.2.0",
+    "chalk": "^4.1.0",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.2.2",
+    "winston": "^3.3.3",
+    "config.json": "^0.0.4",
+    "version": "^0.1.2",
+    "dblapi.js": "^2.4.0"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
